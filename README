@@ -1,7 +1,5 @@
 Optical character recognition with a neural network.
 
 A few notes:
-	The layer class is pretty much pointless, I thought I might need it to better visualize it all
-	but I didn't end up using it this way. It could be remove but not really worth the time for this simple project.
-	
+	The layer class is pretty much pointless, I thought I might need it to better visualize it all but I didn't end up using it this way. It could be remove but not really worth the time for this simple project.
 	I didn't comment the code in the Drawing folder, it was just a quick and dirty solution to generate the dataset.
