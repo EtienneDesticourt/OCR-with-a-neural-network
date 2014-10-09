@@ -1,0 +1,7 @@
+.project
+.pydevproject
+Layer.pyc
+Network.pyc
+Drawing/Dataset2
+Drawing/Dataset3
+Drawing/Render.pyc
